@@ -7,7 +7,8 @@
     text-align: center;
     color: white;
     margin: auto;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    z-index: 0;
 }
 
 .containerForm div {
@@ -39,4 +40,5 @@ select {
     border: none;
     border-radius: 5px;
     background-color: #08ca08;
+    cursor: pointer;
 }
